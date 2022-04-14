@@ -3,10 +3,10 @@
 참고 : https://github.com/bbang208/CleanArchitecture-Android
 
 * AAC (Andorid Architecture Component)
-** ViewModel-ktx
-** LiveData-ktx
-** Lifecycle
-** Fragment-ktx (ViewModel Extension, Coroutine)
+  * ViewModel-ktx
+  * LiveData-ktx
+  * Lifecycle
+  * Fragment-ktx (ViewModel Extension, Coroutine)
 * Hilt
 * Retrofit2
 * OkHttp3
